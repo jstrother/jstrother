@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a soccer-football prediction game. The player tries to guess the outcome of seven randomly chosen European soccer matches. I had temporarily paused coding on this project because my wife and I moved from Seattle to St. Paul, MN. Oh, and there was this pandemic thing that interfered with real-life soccer. I will be getting back on this very soon.
+- 🔭 I’m currently working on a site for a tech charity in Seattle that is just getting up off the ground. This charity wants to help make technology easier to obtain for those in need, especially kids to be able to keep up with school in these times. The site will be built in pure HTML and CSS, and I will post a link once it's live.
 
 - 🌱 I’m currently learning Nest.js to use as my backend. I have already gotten a decent enough grasp of Nuxt.js for the front-side.
 
