@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a site for a tech charity in Seattle that is just getting up off the ground. This charity wants to help make technology easier to obtain for those in need, especially kids to be able to keep up with school in these times. The site will be built in pure HTML and CSS, and I will post a link once it's live.
+- 🔭 Currently building a Cryptogram game. You'll be given an encrypted movie quote and you try to solve it! Don't worry, I'm using a simple alphabet substitution cipher, not a DES or AES algorithm! 😄
 
 - 🌱 I’m currently learning Nest.js to use as my backend. I have already gotten a decent enough grasp of Nuxt.js for the front-side.
 
@@ -10,12 +10,14 @@
 
 - 😄 Pronouns: He/Him (and all I care about you is how decent of a person you are. Content of the character and all that, you know?)
 
+- 🤔 I’m looking for help with getting a coding position with a small- to medium-sized company. Yes, the company's mission is important to me. The higher the good, the better.
+
+- ⚡ Fun fact: I'm having a love affair with soccer, and my wife is ok with that.
+
 <!--
 **jstrother/jstrother** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 -->
