@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently building a Cryptogram game. You'll be given an encrypted movie quote and you try to solve it! Don't worry, I'm using a simple alphabet substitution cipher, not a DES or AES algorithm! 😄
+- 🔭 Currently building an app to help beer-lovers find local breweries & brew pubs! Great for finding new brews near where you live or while traveling! Remember! Always Drink Local! 😄
 
 - 🌱 I’m currently learning Nest.js to use as my backend. I have already gotten a decent enough grasp of Nuxt.js for the front-side.
 
