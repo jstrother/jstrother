@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 Currently building an app to help beer-lovers find local breweries & brew pubs! Great for finding new brews near where you live or while traveling! Remember! Always Drink Local! 😄
+- 🔭 Currently building out a portfolio site for an illustrator to display his artwork. Built in Svelte and Tailwind. (Yeah, he's a friend of mine also. Always happy to help him out!) 😄
 
-- 🌱 I’m currently learning Nest.js to use as my backend. I have already gotten a decent enough grasp of Nuxt.js for the front-side.
+- 🌱 I’m currently learning Nest.js to use as my backend. I have already gotten a decent enough grasp of Nuxt.js for the front-side. Although, I am in the process of pivoting to Svelte for my front-end, and am eagerly awaiting SvelteKit to hit 1.0!
 
 - 💬 Ask me about what drew me to coding in the first place!
 
-- 📫 How to reach me: stop by my website: www.jimstrother.com ***OR*** by email-- jim.strother@gmail.com ***OR*** on Twitter-- @Jim_Codes_JS
+- 📫 How to reach me: stop by my website: www.jimstrother.herokuapp.com ***OR*** by email-- jim.strother@gmail.com ***OR*** on Twitter-- @Jim_Codes_JS
 
-- 😄 Pronouns: He/Him (and all I care about you is how decent of a person you are. Content of the character and all that, you know?)
+- 😄 Pronouns: He/Him
 
 - 🤔 I’m looking for help with getting a coding position with a small- to medium-sized company. Yes, the company's mission is important to me. The higher the good, the better.
 
