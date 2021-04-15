@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-[1]: http://jimstrother.com
+[1]: http://www.jimstrother.com
