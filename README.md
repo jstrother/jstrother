@@ -6,7 +6,7 @@
 
 - 💬 Ask me about what drew me to coding in the first place!
 
-- 📫 How to reach me: stop by my website: [jimstrother.com](http://jimstrother.com) ***OR*** by email-- jim.strother@gmail.com ***OR*** on Twitter-- @Jim_Codes_JS
+- 📫 How to reach me: stop by my website: [jimstrother.com](http://jimstrother.com) ***OR*** by email-- jim.strother@gmail.com ***OR*** on Twitter-- [@Jim_Codes_JS](https://twitter.com/Jim_Codes_JS)
 
 - 😄 Pronouns: He/Him
 
