@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: stop by my website: [jimstrother.com](http://jimstrother.com) ***OR*** by email-- jim.strother@gmail.com ***OR*** on Twitter-- [@Jim_Codes_JS](https://twitter.com/Jim_Codes_JS)
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 - 🤔 I’m looking for help with getting a coding position with a small- to medium-sized company. Yes, the company's mission is important to me. The higher the good, the better.
 
