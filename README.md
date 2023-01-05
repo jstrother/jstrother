@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Recently built out a portfolio site for an illustrator to display his artwork. Built in Svelte and Tailwind. (Yeah, he's a friend of mine also. Always happy to help him out!) 😄
-
 - 💬 Ask me about what drew me to coding in the first place!
 
 - 📫 How to reach me: stop by my website-- [jimstrother.com](http://jimstrother.com) ***OR*** by email-- <jim.strother@gmail.com>
