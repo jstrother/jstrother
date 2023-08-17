@@ -2,7 +2,7 @@
 
 - 💬 Ask me about what drew me to coding in the first place!
 
-- 📫 How to reach me: stop by my website-- [jimstrother.com](http://jimstrother.com) ***OR*** by email-- <jim.strother@gmail.com>
+- 📫 How to reach me by email-- <jim.strother@gmail.com>
 
 - 😄 Pronouns: He/Him/His
 
