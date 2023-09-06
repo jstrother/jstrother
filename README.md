@@ -2,7 +2,7 @@
 
 - 💬 Ask me about what drew me to coding in the first place!
 
-- 📫 How to reach me by email-- <jim.strother@gmail.com>
+- I have a full beard now instead of the goatee in the picture. Don't worry, I keep it nice and neatly trimmed!
 
 - 😄 Pronouns: He/Him/His
 
